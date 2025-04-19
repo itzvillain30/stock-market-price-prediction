@@ -1,6 +1,4 @@
-json_minify
-flask
-pytz
-requests[socks]
-yarl
-pymongo
+yfinance
+scikit-learn
+numpy
+matplotlib
